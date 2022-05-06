@@ -3,8 +3,5 @@
 [Home](index.md)
 [Cheatsheets](cheats/index.md)
 [Learning](learing/index.md)
-
-
-
 [gimmick:themechooser](Theme)
 
